@@ -1,0 +1,41 @@
+Functions
+
+Version 0.1
+1.add
+2.substract
+3.multiply
+4.divide
+5.square [aliases = sq]
+6.cube [aliases = cb]
+7.square root[aliases = sqrt]
+8.cube root [aliases = cbrt]
+
+Version 0.2.1
+1.area_sq
+2.area_rect
+3.area_triangle
+4.area_pgram
+5.area_kite
+6.area_quad
+7.area_trapezium
+8.area_rhombus
+
+Same shapes for perimeter including hexagon
+peri_hexa
+
+Version 0.2.2
+1.sa_cuboid
+2.sa_cube
+3.sa_cylinder  and so on ..... cone sphere hemisphere
+
+lsa of all the above shapes
+
+1.vol_cube
+2.vol_cuboid
+3.vol_prism and so on...... cylinder sphere pyramid cone
+
+
+Version 0.4
+1.simple_onterest
+2.compound_interest
+3.mon_emi
